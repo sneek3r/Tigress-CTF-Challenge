@@ -1,5 +1,7 @@
 # Reverse Engineering Challenge: **sneek3rs l33t VM**
 
+Enjoy ChatGPT's README lol :)
+
 Welcome to the **sneek3rs l33t VM** reverse engineering challenge! In this CTF, you'll be tasked with analyzing a binary file to uncover hidden secrets.
 
 ---
